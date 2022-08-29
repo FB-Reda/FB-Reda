@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fb-reda.fb-reda)
 
-I'm a Software Engineer working for the Product Engineering team at Donnelley Financial Solutions.  Prior to that I completed my degree in Computer Engineering at Marquette University with a focus in Intelligent Systems.  In my free time I work on the Chicago International Model United Nations conference as the Undersecretary-General of Media and as a member of the engineering department.
+I'm a Chicago based Software Engineer previously working for the Product Engineering team at Donnelley Financial Solutions.  For school I completed my degree in Computer Engineering at Marquette University with a focus in Intelligent Systems.  In my free time I work on the Chicago International Model United Nations conference as the Undersecretary-General of Media and as a member of the engineering department.
 
 ## 🔧 Technologies & Tools
 
