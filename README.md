@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fb-reda.fb-reda)
 
-I'm a Chicago based Software Engineer currently working for the eCommerce team at S&S Activewear.  For school I completed my degree in Computer Engineering at Marquette University with a focus in Intelligent Systems.  In my free time I work on the Chicago International Model United Nations conference as the Undersecretary-General of Media and as a member of the engineering department.  
+I'm a Chicago based Software Engineer currently working for the eCommerce team at S&S Activewear.  For school I completed my degree in Computer Engineering at Marquette University with a focus in Intelligent Systems.
 
 ## 🔧 Technologies & Tools
 
